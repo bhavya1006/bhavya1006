@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavya Madan</h1>
 <h3 align="center">A programmer from India</h3>
 
-<p align='center'><img src='https://cdn-images-1.medium.com/v2/resize:fit:640/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif'></p>
+<p align='center'><img src='https://cdn-images-1.medium.com/v2/resize:fit:640/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif' width=650></p>
 
 <p align="left"> <a href="https://twitter.com/bhavyamadan20" target="blank"><img src="https://img.shields.io/twitter/follow/bhavyamadan20?logo=twitter&style=for-the-badge" alt="bhavyamadan20" /></a> </p>
 
