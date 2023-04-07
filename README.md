@@ -23,7 +23,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=bhavya1006&show_icons=true&theme=radical#gh-dark-mode-only" alt="bhavya1006" /></p>
 
 <p>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya1006&layout=compact&theme=radical&custom_title=Languages' height=125>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya1006&layout=compact&theme=radical&custom_title=Languages' height=175>
 </p>
 <br><br>
 <p align="center">
