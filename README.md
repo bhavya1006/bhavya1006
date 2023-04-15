@@ -14,6 +14,7 @@
 <a href="https://twitter.com/bhavyamadan20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavyamadan20" height="30" width="40" hspace=20 /></a>
 <a href="https://linkedin.com/in/bhavya-madan-05324a264" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavya-madan-05324a264" height="30" width="40" hspace=20 /></a>
 <a href="https://instagram.com/bhavya_841953" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavya_841953" height="30" width="40" hspace=20 /></a>
+<a href="https://hashnode.com/@bhavya69" target="_blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" alt="bhavya_841953" height="30" hspace=20 /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
