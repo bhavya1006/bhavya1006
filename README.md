@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bhavyamadan20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavyamadan20" height="30" width="40" hspace=20 /></a>
-<a href="https://linkedin.com/in/bhavya-madan-05324a264" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavya-madan-05324a264" height="30" width="40" hspace=20 /></a>
-<a href="https://instagram.com/bhavya_841953" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavya_841953" height="30" width="40" hspace=20 /></a>
+<a href="https://twitter.com/bhavyamadan20" target="_blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/-51614117232aso9q2exl5.png" alt="bhavyamadan20" height="40" width="40" hspace=20 /></a>
+<a href="https://linkedin.com/in/bhavya-madan-05324a264" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/large_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="bhavya-madan-05324a264" height="60" width="60" hspace=20 /></a>
+<a href="https://instagram.com/bhavya_841953" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="bhavya_841953" height="40" width="40" hspace=20 /></a>
 <a href="https://hashnode.com/@bhavya69" target="_blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" alt="bhavya_841953" height="30" hspace=20 /></a>
 </p>
 
