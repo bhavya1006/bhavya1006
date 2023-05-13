@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhavya Madan</h1>
-<h3 align="center">A programmer from India</h3>
+<h3 align="center">A Mach9</h3>
 
-<p align='center'><img src='https://cdn-images-1.medium.com/v2/resize:fit:640/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif' width=650></p>
+<p align='center'><img src='https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif' width=400></p>
 
-<p align="left"> <a href="https://twitter.com/bhavyamadan20" target="_blank"><img src="https://img.shields.io/twitter/follow/bhavyamadan20?logo=twitter&style=for-the-badge" alt="bhavyamadan20" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bhavyamadan20" target="_blank"><img src="https://img.shields.io/twitter/follow/bhavyamadan20?logo=twitter&style=for-the-badge" alt="bhavyamadan20" /></a></p>
 
 - 🌱 I’m currently learning **Machine Learning & Data Structures**
 
