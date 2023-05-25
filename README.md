@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhavya Madan</h1>
-<h3 align="center">A Mach9</h3>
+<h1 align="center">Hello 👋, I'm Bhavya Madan</h1>
+<h3 align="center">A Macɦ9</h3>
 
 <p align='center'><img src='https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif' width=400></p>
 
