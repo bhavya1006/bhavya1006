@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/bhavyamadan20" target="_blank"><img src="https://img.shields.io/twitter/follow/bhavyamadan20?logo=twitter&style=for-the-badge" alt="bhavyamadan20" /></a></p>
 
-- 🌱 I’m currently learning **Machine Learning & Data Structures**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- Solving problems daily at geeks-for-geeks & leet-code
 
 - 📫 How to reach me **bindubhdh@gmail.com**
 
