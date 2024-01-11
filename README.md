@@ -47,10 +47,7 @@
 <p>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya1006&layout=compact&theme=radical&custom_title=Languages' height=160>
 </p>
-<br><br>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavya1006&theme=radical&border_radius=)](https://git.io/streak-stats" alt="bhavya1006" height=200/>
-</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=bhavya1006&label=Profile%20views&color=0e75b6&style=flat" alt="bhavya1006" /> </p>
+
+
 
