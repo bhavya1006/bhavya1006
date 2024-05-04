@@ -10,7 +10,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://bhavya1006.github.io/My-Portfolio/#](https://bhavya1006.github.io/My-Portfolio/#) -->
 
-- 📝 Blogs on [https://bhavya69.hashnode.dev/](https://bhavya69.hashnode.dev/)
+- 📝 Blogs on [Hashnode](https://bhavya69.hashnode.dev/)
 
 - 💬 Ask me about **Ui/Ux, Content Writing & Machine Learning**
 
