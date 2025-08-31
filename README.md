@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hi there, I'm Bhavya 👋</h1>
+<h1 align="center">Hi there, I'm Bhavyaa Madan 👋</h1>
 <p align="center">🎓 B.Tech | AI & ML | UI/UX Designer | Web Developer <!--| GCP Explorer--> 🚀</p>
 
 <p align="center">
